@@ -1,4 +1,4 @@
-# Iaindillingham Tools
+# Iain Dillingham's Homebrew Tools
 
 ## How do I install these formulae?
 
